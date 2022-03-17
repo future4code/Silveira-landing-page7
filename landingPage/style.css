@@ -10,11 +10,13 @@ header{
     /* para testes */
     background:greenyellow;
 
+    
     display: flex;
     flex-direction: row;
     align-items: center;
     padding: 10px;
     margin-left: -10px;
+    justify-content: space-evenly;
 }
 
 .botao-nav{
@@ -43,6 +45,7 @@ header > h3{
 }
 
 #rede-social{
+    border-radius: 20px;
     max-width: 30px;
     padding: 10px;
 }
@@ -64,6 +67,7 @@ footer{
 }
 
 footer > img{
+    border-radius: 10px;
     max-width: 60px;
     width: 100%;
     margin-left: 30px
