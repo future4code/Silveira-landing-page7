@@ -8,13 +8,13 @@
 header{
 
     /* para testes */
-    background:greenyellow;
-
+    background:#ff914d;
     display: flex;
     flex-direction: row;
     align-items: center;
     padding: 10px;
     margin-left: -10px;
+    justify-content: space-evenly;
 }
 
 .botao-nav{
@@ -26,9 +26,70 @@ header{
     padding: 20px;
 }
 
-div .container{
-    background:salmon;
+#img-container-main {
+    width: 1000px;
+    border-radius: 50px;
 }
+
+#img-container {
+    width: 500px;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+
+
+.container-main{
+    background-color: rgb(211, 233, 251);
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 100px;
+        
+}
+
+.container-main button {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    background-color: #ff914d;
+    padding: 20px;
+    border-radius: 50px;
+    margin-top: 150px;
+    border-color: aliceblue;
+    box-shadow: 2px 5px 10px black;
+
+}
+
+.container-branco {
+    background-color: white;
+    text-align: center;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+    
+
+.container-cinza {
+    background-color: rgb(211, 233, 251);
+    text-align: center;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+
+
+
 
 header > h3{
     display: flex;
@@ -45,6 +106,7 @@ header > h3{
 #rede-social{
     max-width: 30px;
     padding: 10px;
+    border-radius: 50px;
 }
 
 footer{
@@ -52,7 +114,7 @@ footer{
     background:gray;
 
 
-
+    
     position: fixed;
     bottom:0;
     left:0;
