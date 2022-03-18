@@ -1,14 +1,15 @@
+
 *{
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'HelveticaNeue', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 
 header{
-
     /* para testes */
     background:#ff914d;
+    background:greenyellow;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -37,7 +38,6 @@ header{
     margin-bottom: 100px;
 }
 
-
 .container-main{
     background-color: rgb(211, 233, 251);
     text-align: center;
@@ -47,7 +47,6 @@ header{
     align-items: center;
     justify-content: space-evenly;
     padding-bottom: 100px;
-        
 }
 
 .container-main button {
@@ -60,7 +59,6 @@ header{
     margin-top: 150px;
     border-color: aliceblue;
     box-shadow: 2px 5px 10px black;
-
 }
 
 .container-branco {
@@ -74,7 +72,6 @@ header{
     font-size: 40px;
 }
     
-
 .container-cinza {
     background-color: rgb(211, 233, 251);
     text-align: center;
@@ -86,10 +83,6 @@ header{
     font-size: 40px;
     padding-top: 50px;
 }
-
-
-
-
 
 header > h3{
     display: flex;
@@ -104,17 +97,15 @@ header > h3{
 }
 
 #rede-social{
+    border-radius: 20px;
     max-width: 30px;
     padding: 10px;
     border-radius: 50px;
 }
 
 footer{
-    /* para testes */
+/* para testes */
     background:gray;
-
-
-    
     position: fixed;
     bottom:0;
     left:0;
@@ -126,6 +117,7 @@ footer{
 }
 
 footer > img{
+    border-radius: 10px;
     max-width: 60px;
     width: 100%;
     margin-left: 30px
@@ -134,3 +126,7 @@ footer > img{
 #infos{
     width: 75%;
 }
+
+
+
+
