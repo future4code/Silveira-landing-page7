@@ -1,12 +1,11 @@
 <p align="center"><img src="https://github.com/future4code/Silveira-landing-page7/blob/master/landingPage/img/logo.png" style="max-width:100%;"></p>
 <h1 align="center"> Projeto Landing Page F4Bank - Silveira 7</h1>
     
-<p align="center"> Projeto com objetivo de criar uma landing page baseada na empresa fictícia F4Bank
-     </p>
+<p align="center"> Projeto com objetivo de criar uma landing page baseada na empresa fictícia F4Bank</p>
     
 <h2>🔗 Link do Surge</h2>
     
-<a href="LandingPageLabenu.surge.sh" target="_blank">LandingPageLabenu.surge.sh</a>
+<a href="landingPageLabenu.surge.sh" target="_blank">LandingPageLabenu.surge.sh</a>
     
 <h2>O projeto foi realizado com: </h2>
   <ul type="square">
