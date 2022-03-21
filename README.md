@@ -5,7 +5,7 @@
     
 <h2>🔗 Link do Surge</h2>
     
-<a href="landingPageLabenu.surge.sh" target="_blank">LandingPageLabenu.surge.sh</a>
+<a href="http://landingpagelabenu.surge.sh/" target="_blank"> Landingpagelabenu.surge.sh/ </a>
     
 <h2>O projeto foi realizado com: </h2>
   <ul type="square">
